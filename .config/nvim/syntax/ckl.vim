@@ -1,5 +1,5 @@
 syn keyword basicLanguageKeywords def in do end fn if then elif else
-syn keyword basicLanguageKeywords return break continue
+syn keyword basicLanguageKeywords return break continue class
 syn keyword basicLanguageKeywords for while try catch finally is
 syn keyword basicLanguageKeywords require as unqualified import
 
